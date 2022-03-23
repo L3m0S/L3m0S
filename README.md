@@ -1,8 +1,8 @@
 ## Olá, meu nome é Gabriel! ❤️
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L3m0S&show_icons=true&theme=omni"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3m0S&layout=compact&theme=omni"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=L3m0S&show_icons=true&theme=omni"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3m0S&layout=compact&theme=omni"/>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  </div>
  

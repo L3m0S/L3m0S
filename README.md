@@ -7,7 +7,7 @@
  
   ##
   
-  <a href="https://www.linkedin.com/in/gabriellemossp/" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/gabriellemossp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <!---
 L3m0S/L3m0S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
